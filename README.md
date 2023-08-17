@@ -19,7 +19,7 @@ python3 Bees2.py
 Presentation
 ```
 pdflatex MitesAndBeesPres.tex
-open MitesAnd BeesPres.pdf
+open MitesAndBeesPres.pdf
 
 ```
 Paper
