@@ -11,7 +11,7 @@ python3 vis_bees_mites.py
 ```
 To run code: Infection Graph
 ```
-python3 Bees2.py
+python3 bees_3.py
 ```
 
 ## Research Paper and Presentation
@@ -24,6 +24,7 @@ open MitesAndBeesPres.pdf
 ```
 Paper
 ```
+sudo apt install texlive-publishers 
 pdflatex ccd_bees_paper.tex
 open ccd_bees_paper.pdf
 ```
